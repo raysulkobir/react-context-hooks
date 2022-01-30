@@ -3,7 +3,11 @@ import useUpdateEffect from "./useUpdateEffect"
 
 export default function UpdateEffectComponent() {
   const [count, setCount] = useState(10)
-  useUpdateEffect(() => alert(count), [count])
+  useUpdateEffect(() => checkFunction(), [count])
+
+  const checkFunction = () => {
+    console.log("I am useUpdateEffect");
+  }
 
   return (
     <div>
