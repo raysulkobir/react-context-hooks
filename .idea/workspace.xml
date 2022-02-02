@@ -20,90 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d13d93b5-2b5a-41e9-9e42-af8bd08f711f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/Demo.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/link/note.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/useful-custom-react-hooks-main/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/useful-custom-react-hooks-main/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/useful-custom-react-hooks-main/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/useful-custom-react-hooks-main/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/useful-custom-react-hooks-main/public/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/useful-custom-react-hooks-main/public/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/useful-custom-react-hooks-main/public/logo192.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/useful-custom-react-hooks-main/public/logo512.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/useful-custom-react-hooks-main/public/manifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/useful-custom-react-hooks-main/public/robots.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/useful-custom-react-hooks-main/src/1-useToggle/ToggleComponent.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/useful-custom-react-hooks-main/src/1-useToggle/useToggle.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/useful-custom-react-hooks-main/src/10-useFetch/FetchComponent.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/useful-custom-react-hooks-main/src/10-useFetch/useFetch.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/useful-custom-react-hooks-main/src/11-useScript/ScriptComponent.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/useful-custom-react-hooks-main/src/11-useScript/useScript.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/useful-custom-react-hooks-main/src/12-useDeepCompareEffect/DeepCompareEffectComponent.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/useful-custom-react-hooks-main/src/12-useDeepCompareEffect/useDeepCompareEffect.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/useful-custom-react-hooks-main/src/13-useEventListener/EventListenerComponent.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/useful-custom-react-hooks-main/src/13-useEventListener/useEventListener.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/useful-custom-react-hooks-main/src/14-useOnScreen/OnScreenComponent.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/useful-custom-react-hooks-main/src/14-useOnScreen/useOnScreen.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/useful-custom-react-hooks-main/src/15-useWindowSize/WindowSizeComponent.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/useful-custom-react-hooks-main/src/15-useWindowSize/useWindowSize.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/useful-custom-react-hooks-main/src/16-useMediaQuery/MediaQueryComponent.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/useful-custom-react-hooks-main/src/16-useMediaQuery/useMediaQuery.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/useful-custom-react-hooks-main/src/17-useGeolocation/GeolocationComponent.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/useful-custom-react-hooks-main/src/17-useGeolocation/useGeolocation.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/useful-custom-react-hooks-main/src/18-useStateWithValidation/StateWithValidationComponent.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/useful-custom-react-hooks-main/src/18-useStateWithValidation/useStateWithValidation.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/useful-custom-react-hooks-main/src/19-useSize/SizeComponent.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/useful-custom-react-hooks-main/src/19-useSize/useSize.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/useful-custom-react-hooks-main/src/2-useTimeout/TimeoutComponent.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/useful-custom-react-hooks-main/src/2-useTimeout/useTimeout.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/useful-custom-react-hooks-main/src/20-useEffectOnce/EffectOnceComponent.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/useful-custom-react-hooks-main/src/20-useEffectOnce/useEffectOnce.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/useful-custom-react-hooks-main/src/21-useClickOutside/ClickOutsideComponent.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/useful-custom-react-hooks-main/src/21-useClickOutside/useClickOutside.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/useful-custom-react-hooks-main/src/22-useDarkMode/DarkModeComponent.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/useful-custom-react-hooks-main/src/22-useDarkMode/body.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/useful-custom-react-hooks-main/src/22-useDarkMode/useDarkMode.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/useful-custom-react-hooks-main/src/23-useCopyToClipboard/CopyToClipboardComponent.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/useful-custom-react-hooks-main/src/23-useCopyToClipboard/useCopyToClipboard.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/useful-custom-react-hooks-main/src/24-useCookie/CookieComponent.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/useful-custom-react-hooks-main/src/24-useCookie/useCookie.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/useful-custom-react-hooks-main/src/25-useTranslation/TranslationComponent.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/useful-custom-react-hooks-main/src/25-useTranslation/translations/en.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/useful-custom-react-hooks-main/src/25-useTranslation/translations/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/useful-custom-react-hooks-main/src/25-useTranslation/translations/sp.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/useful-custom-react-hooks-main/src/25-useTranslation/useTranslation.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/useful-custom-react-hooks-main/src/26-useOnlineStatus/OnlineStatusComponent.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/useful-custom-react-hooks-main/src/26-useOnlineStatus/useOnlineStatus.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/useful-custom-react-hooks-main/src/27-useRenderCount/RenderCountComponent.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/useful-custom-react-hooks-main/src/27-useRenderCount/useRenderCount.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/useful-custom-react-hooks-main/src/28-useDebugInformation/DebugInformationComponent.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/useful-custom-react-hooks-main/src/28-useDebugInformation/useDebugInformation.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/useful-custom-react-hooks-main/src/29-useHover/HoverComponent.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/useful-custom-react-hooks-main/src/29-useHover/useHover.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/useful-custom-react-hooks-main/src/3-useDebounce/DebounceComponent.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/useful-custom-react-hooks-main/src/3-useDebounce/useDebounce.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/useful-custom-react-hooks-main/src/30-useLongPress.js/LongPressComponent.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/useful-custom-react-hooks-main/src/30-useLongPress.js/useLongPress.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/useful-custom-react-hooks-main/src/4-useUpdateEffect/UpdateEffectComponent.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/useful-custom-react-hooks-main/src/4-useUpdateEffect/useUpdateEffect.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/useful-custom-react-hooks-main/src/5-useArray/ArrayComponent.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/useful-custom-react-hooks-main/src/5-useArray/useArray.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/useful-custom-react-hooks-main/src/6-usePrevious/PreviousComponent.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/useful-custom-react-hooks-main/src/6-usePrevious/usePrevious.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/useful-custom-react-hooks-main/src/7-useStateWithHistory/StateWithHistoryComponent.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/useful-custom-react-hooks-main/src/7-useStateWithHistory/useStateWithHistory.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/useful-custom-react-hooks-main/src/8-useStorage/StorageComponent.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/useful-custom-react-hooks-main/src/8-useStorage/useStorage.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/useful-custom-react-hooks-main/src/9-useAsync/AsyncComponent.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/useful-custom-react-hooks-main/src/9-useAsync/useAsync.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/useful-custom-react-hooks-main/src/App.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/useful-custom-react-hooks-main/src/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/001-useToggle/ToggleComponent.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/001-useToggle/ToggleComponent.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/001-useToggle/useToggle.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/001-useToggle/useToggle.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/004-useUpdateEffect/UpdateEffectComponent.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/004-useUpdateEffect/UpdateEffectComponent.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/005-useArray/ArrayComponent.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/005-useArray/ArrayComponent.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/005-useArray/useArray.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/005-useArray/useArray.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/007-useStateWithHistory/StateWithHistoryComponent.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/007-useStateWithHistory/StateWithHistoryComponent.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/011-useScript/useScript.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/011-useScript/useScript.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/012-useDeepCompareEffect/DeepCompareEffectComponent.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/012-useDeepCompareEffect/DeepCompareEffectComponent.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/014-useOnScreen/OnScreenComponent.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/014-useOnScreen/OnScreenComponent.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/Home.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Home.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -155,7 +76,10 @@
       <workItem from="1643471282514" duration="3364000" />
       <workItem from="1643475118009" duration="1713000" />
       <workItem from="1643482216020" duration="299000" />
-      <workItem from="1643561318933" duration="10915000" />
+      <workItem from="1643561318933" duration="11157000" />
+      <workItem from="1643649213198" duration="598000" />
+      <workItem from="1643655209139" duration="20000" />
+      <workItem from="1643728408259" duration="12900000" />
     </task>
     <servers />
   </component>
@@ -179,9 +103,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="551" y="256" key="#ESLint/0.0.1366.728@0.0.1366.728" timestamp="1643392349832" />
-    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1643479518730">
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1643655227129">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1643479518730" />
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1643655227129" />
   </component>
 </project>

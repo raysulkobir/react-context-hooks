@@ -9,10 +9,9 @@ export default function DeepCompareEffectComponent() {
 
   const person = { age: age, name: "Kyle" }
 
-  useEffect(() => {
-    useEffectCountRef.current.textContent =
-      parseInt(useEffectCountRef.current.textContent) + 1
-  }, [person])
+  // useEffect(() => {
+  //   useEffectCountRef.current.textContent = parseInt(useEffectCountRef.current.textContent) + 1;
+  // }, [person])
 
   useDeepCompareEffect(() => {
     useDeepCompareEffectCountRef.current.textContent =
